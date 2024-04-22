@@ -7,4 +7,7 @@ class PagesController < ApplicationController
     render :vishalkc56
   end
 
+
+  def username
+  end
 end

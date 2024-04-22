@@ -11,4 +11,5 @@ Rails.application.routes.draw do
 
   get 'vishalkc56', to: 'pages#vishalkc56', as: 'vishalkc56'
 
+  get 'username', to: 'pages#scarrillo49', as: 'scarrillo49'
 end
