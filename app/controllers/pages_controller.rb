@@ -6,4 +6,7 @@ class PagesController < ApplicationController
   def schiu0506
     render :schiu0506
   end
+
+  def username
+  end
 end
