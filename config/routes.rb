@@ -8,4 +8,7 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
   root 'pages#index'
+
+  get 'vishalkc56', to: 'pages#vishalkc56', as: 'vishalkc56'
+
 end
